@@ -13,18 +13,15 @@
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li
-      </ul>
     </li>
     <li><a href="#code-usage">Code Usage</a>
-    <ul>
+      <ul>
         <li><a href="#DataScience">DataScience</a></li> 
       </ul>
     </li>
     <li><a href="#data-files">Data Files</a></li>
     <li><a href="#Deployment">Deployment</a>
-    <ul>
+      <ul>
         <li><a href="#Heroku-deployment">Heroku deployment</a></li>
         <li><a href="#app-Building ">App Building </a></li>
       </ul>
@@ -42,7 +39,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![Product Name Screen Shot](https://github.com/chaitanya2593/CRA_pratice/blob/main/overview.jpeg)
+![Product Name Screen Shot](https://github.com/chaitanya2593/CRA_pratice/blob/master/overview.jpeg)
 
 This project is has practice template to implement the random forest on a credit risk data using jupyter notebook. Followed by deploying the model using the heroku.
 
