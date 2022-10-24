@@ -6,14 +6,9 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
+      <a href="#about-the-project">About The Project</a>  
     </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-    </li>
+  <li><a href="#built-with">Built With</a></li>
     <li><a href="#code-usage">Code Usage</a>
       <ul>
         <li><a href="#DataScience">DataScience</a></li> 
@@ -45,7 +40,7 @@ This project is has practice template to implement the random forest on a credit
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### Built With
+## Built With
 
 * Python - 3x
   * Data science packages 
